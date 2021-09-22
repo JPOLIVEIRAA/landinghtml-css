@@ -1,0 +1,30 @@
+.owl-carousel img{
+    height: 180px;
+    position: relative;  
+}
+
+.white-bg{
+    background-color: #ffe6e6;
+}
+
+.white-bg h2{
+    
+    padding-top: 10rem;
+}
+
+.owl-nav{
+    display: flex;
+    justify-content:center;
+    color: red;
+    padding: 3rem;
+}
+
+
+ 
+
+
+
+
+
+
+
